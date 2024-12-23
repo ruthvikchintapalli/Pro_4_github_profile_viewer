@@ -16,7 +16,7 @@ I'm an aspiring full stack developer , pursuing my MS in Management Information 
 
 **Server:** Not Required
 
-**Hosted on** Netlify.com as https://gitterhub.netlify.com 
+**Hosted on** Netlify.com as [https://gitterhub.netlify.com ](https://gitterhub.netlify.app/)
 
 
 ## Screenshots
